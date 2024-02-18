@@ -10,7 +10,7 @@
   "author": "",
   "license": "LGPL-2.0-only",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
+    "@nebula-services/ultraviolet": "^1.0.1-1.patch.7",
     "@tomphttp/bare-server-node": "^2.0.1",
     "chalk": "^5.3.0",
     "compression": "^1.7.4",
